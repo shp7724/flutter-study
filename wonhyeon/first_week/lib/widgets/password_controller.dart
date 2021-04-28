@@ -15,7 +15,7 @@ class _PasswordControllerState extends State<PasswordController> {
   int _stateMessageIndex = 0;
   final _buttons = [
     for (int i = 1; i < 10; i++)
-      NumberButtons(
+      new NumberButtons(
         value: i,
         color: Colors.white,
       )
