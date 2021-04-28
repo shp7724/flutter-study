@@ -48,18 +48,23 @@ When the user press the button, following happens:
 
 #### Screenshots <br>
 The initial UI:
+
 ![initial](./img/1_initial_state.png)
 
 When the user enter the password by pressing each button:
+
 ![entering](./img/1_entering.png)
 
 When the user pressed wrong button:
+
 ![error](./img/1_error.png)
 
 When the user retries after the error:
+
 ![retry](./img/1_entering_after_error.png)
 
 When the user entered correct password:
+
 ![success](./img/1_completed.png)
 
 #### Developer <br>
